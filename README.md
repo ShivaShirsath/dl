@@ -1,3 +1,3 @@
 # dl
 
-[1](bosten.ipynb)
+[1](boston.ipynb)
